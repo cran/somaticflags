@@ -1,0 +1,13 @@
+419f40ecebca5e91f4808dd8ef5d1ff6 *DESCRIPTION
+fff4a72f4108b4fffc39259968fe6791 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+b3287931ae4bf1b05d5ea5388a4ea280 *NEWS.md
+f8e99967a21a827501a1d7a410b55f59 *R/documentation.R
+4cc2c1b65e123a2f941fbc85ab767f85 *R/somaticflags.R
+52bdfa9e374cacb8ff7683fa63718e8c *README.md
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+77bb0574244c1eb0217a9e94979c731f *data/somaticflags.rda
+3aec78da10fd98c0ae5a74f7b74b062e *data/somaticflags_df.rda
+09b1143f3b4147848ed873ff441e06a2 *inst/extdata/somaticflags.csv
+a4a88485322090944b0207b58e021d05 *man/somaticflags.Rd
+0a53483aa93609bda16fb89394575ac3 *man/somaticflags_df.Rd
